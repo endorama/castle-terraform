@@ -1,0 +1,9 @@
+alias tf=terraform
+alias tfp="tf plan"
+alias tfa="tf apply"
+alias tfat="tfa --target"
+alias tfaa="tfa --auto-approve"
+alias tfw="tf workspace"
+alias tfwn="tfw new"
+alias tfws="tfw select"
+alias tfwl="tfw list"
